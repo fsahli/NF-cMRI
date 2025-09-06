@@ -6,11 +6,10 @@ by *Tabita Catalán*, *Matías Courdurier*, *Axel Osses*, *Anastasia Fotaki*, *R
 [![Paper-Journal](https://img.shields.io/badge/Journal-Computers_in_Biology_and_Medicine-e43444.svg?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S001048252401552X)
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2024.109467-08c359.svg?style=flat-square)](https://doi.org/10.1016/j.compbiomed.2024.109467)
 [![Preprint](https://img.shields.io/badge/Preprint-arXiv-b41c1c.svg?style=flat-square)](https://arxiv.org/abs/2307.14363)
+[![Institution](https://img.shields.io/badge/Institute-iHEALTH-232453.svg?style=flat-square)](https://i-health.cl/)
 <!-- ihealth colors: azul oscuro #232453 green  #08c359
 [![Institution](https://img.shields.io/badge/Institute-iHEALTH-08c359.svg?style=flat-square)](https://i-health.cl/)
 --->
-[![Institution](https://img.shields.io/badge/Institute-iHEALTH-232453.svg?style=flat-square)](https://i-health.cl/)
-
 
 ## 📎 Citation
 
