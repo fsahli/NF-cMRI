@@ -125,15 +125,18 @@ We defined a custom interface to the BART library `nfcmri.bart`. The main class 
 
 ---
 
-<!---
+
 ## 🤝 Acknowledgements
 
-This codebase builds on:
+This work was supported by the following grants:
+- Millennium Nucleus for Applied Control and Inverse Problems ACIP NCN19_161
+- Millennium Institute for Intelligent Healthcare Engineering iHEALTH ICN2021_004.
+- ANID Basal FB210005
+- ANID Fondecyt 1210637
+- ANID Basal FB210017
+- ANID FONDECYT Iniciación 11220816
 
-- \[Link to any base code you used]
-- \[Thank collaborators or funding agencies]
-  - iHEALTH
-
+<!---
 ---
 
 ## 🛠️ Troubleshooting
